@@ -86,7 +86,7 @@ http://localhost/
 
 Main branch status
 
-![main](https://github.com/nadim13/yamdb_final/workflows/YAMDB_FINAL/badge.svg)
+![main](https://github.com/nadim13/yamdb_final/actions/workflows/YAMDB_FINAL/badge.svg)
 
 ## Примеры запросов к API
 ###  Регистрация пользователя
