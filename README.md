@@ -84,6 +84,10 @@ docker-compose exec web python manage.py collectstatic --no-input
 http://localhost/
 ```
 
+Main branch status
+
+![main](https://github.com/nadim13/yamdb_final/workflows/YAMDB_FINAL/badge.svg)
+
 ## Примеры запросов к API
 ###  Регистрация пользователя
 ```
