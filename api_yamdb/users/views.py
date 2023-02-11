@@ -38,6 +38,7 @@ class UserViewSet(viewsets.ModelViewSet):
         if request.method == 'GET':
             serializer = MeSerializer(user)
             return Response(serializer.data, status=status.HTTP_200_OK)
+        return None
 
 
 @api_view(['POST'])
