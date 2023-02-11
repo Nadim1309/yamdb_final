@@ -84,7 +84,7 @@ docker-compose exec web python manage.py collectstatic --no-input
 http://localhost/
 ```
 
-Main branch status
+Статус выполнения workflow
 
 ![example workflow](https://github.com/nadim1309/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
